@@ -82,7 +82,7 @@ It's better to create a GitHub Action secret for this parameter when using it. R
 Refer to [Login With OpenID Connect (OIDC)](#login-with-openid-connect-oidc-recommended), [Login With System-assigned Managed Identity](#login-with-system-assigned-managed-identity) and [Login With User-assigned Managed Identity](#login-with-user-assigned-managed-identity) for its usage.
 
 ### `tenant-id`
-
+a8b1bb10-3fd9-4289-a151-d881105947bc
 The input parameter `tenant-id` specifies the login tenant id.
 
 It's used in login with OpenID Connect (OIDC) and managed identity.
